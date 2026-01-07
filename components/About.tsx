@@ -14,7 +14,7 @@ export default function About() {
   });
 
   const handleDownloadResume = () => {
-    window.open("https://drive.google.com/file/d/1EXAMPLE/view?usp=sharing", '_blank');
+    window.open("https://drive.google.com/file/d/1mnB2cwaBFQOfQN1SVTfmxj1fg-WQogB0", '_blank');
   };
 
   const values = [

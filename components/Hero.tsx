@@ -20,12 +20,12 @@ export default function Hero() {
 
   const handleDownloadResume = () => {
     // Replace with Michael's actual public resume URL when available
-    window.open("https://drive.google.com/file/d/1EXAMPLE/view?usp=sharing", '_blank');
+    window.open("https://drive.google.com/file/d/1mnB2cwaBFQOfQN1SVTfmxj1fg-WQogB0", '_blank');
   };
 
   const handleSocialClick = (platform: string) => {
     const links = {
-      github: "https://github.com/Oleksii1001",
+      github: "https://github.com/michael0725-senior",
       email: "mailto:Mkirk9215@gmail.com"
     };
     

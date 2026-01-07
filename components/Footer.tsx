@@ -14,7 +14,7 @@ export default function Footer() {
 
   const handleSocialClick = (platform: string) => {
     const links = {
-      github: "https://github.com/Oleksii1001",
+      github: "https://github.com/michael0725-senior",
       email: "mailto:Mkirk9215@gmail.com"
     };
     

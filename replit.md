@@ -15,8 +15,8 @@ Preferred communication style: Simple, everyday language.
 - Title: Senior Full-Stack Engineer | Python, .NET, Node.js, Angular Expert
 - Location: Kyiv, Ukraine
 - Email: oleksii.shamanov2@gmail.com
-- GitHub: https://github.com/Oleksii1001
-- Resume: https://drive.google.com/file/d/1dpqKDtVmfVTaIx7z3BzdwPdcU8c1WYYz/view
+- GitHub: https://github.com/michael0725-senior
+- Resume: https://drive.google.com/file/d/1mnB2cwaBFQOfQN1SVTfmxj1fg-WQogB0/
 
 **Professional Experience:**
 1. Railsware (01/2022 - Present) - Senior Full-Stack Engineer
@@ -162,7 +162,7 @@ Preferred communication style: Simple, everyday language.
   - Title: Senior Full-Stack Engineer | Python, .NET, Node.js, Angular Expert
   - Email: oleksii.shamanov2@gmail.com
   - Location: Kyiv, Ukraine
-  - GitHub: https://github.com/Oleksii1001
+  - GitHub: https://github.com/michael0725-senior
   - Resume: Google Drive link updated
   
 - Updated Hero section with new name, title, bio, and professional avatar
