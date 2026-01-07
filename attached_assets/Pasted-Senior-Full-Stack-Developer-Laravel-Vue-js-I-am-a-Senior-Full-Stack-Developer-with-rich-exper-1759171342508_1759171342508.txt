@@ -1,0 +1,42 @@
+Senior Full Stack Developer | Laravel&Vue.js
+
+
+I am a Senior Full-Stack Developer with rich experience and enough skill in Laravel, PHP, Vue.js, and React, helping businesses build scalable, high-performance web applications that drive results.
+I have successfully developed and maintained complex systems, ensuring they are efficient, secure, and deliver seamless user experiences.
+For the backend, I design RESTful APIs, optimized databases, and implement robust authentication systems using Laravel and MySQL, enabling fast and reliable application performance.
+For the frontend, I create interactive, responsive interfaces with Vue.js and React that engage users and enhance usability across devices.
+Whether you need a custom SaaS platform, e-commerce solution, or full-stack web application, I bring the experience and professionalism to turn your vision into a reliable, scalable product.
+Specialty
+Backend:Laravel,Symfony,CodeIgniter, PHP, Node.js,express.js,NestJS
+Frontend:Vue.js,Nuxt.js,Quasar, VuePress, VitePress,React.js, next.js
+Database:MySQL, PostgreSQL,MongoDB,MariaDB,SQLite
+Cloud/DevOps: AWS/Azure/GCP, Docker, CI/CD, Sentry/OTel		
+Let `s collaborate together
+If you’re looking for a skilled developer who can bring your vision to life
+ — from robust backend systems to stunning, high-performance
+ user interfaces — I’m ready to make it happen.
+Let’s collaborate and turn your project into a successful, scalable solution.
+
+Skill
+	
+	Laravel,PHP, Node.js,express.js,NestJS,Vue.js, Nuxt.js, React.js, Next.js, 
+            JavaScript, Typescript,MySQL, PostgreSQL,MongoDB,,MariaDB,SQLite
+Education
+Kyiv National University of Technologies and Design(4 years)
+Address: Mala Shyianovska St, 2, Kyiv, Ukraine, 01011
+Founded: 1930
+School type: National university
+Phone: +380 44 256 2975
+
+(Bachelor of Computer Science)
+Employment  history
+
+
+
+3. CF.Digita / Kyiv, Ukraine / Founded 2002 / 10 - 49/Vue/2018~2019
+	Frontend developer
+
+	Built and optimized responsive, user-friendly web applications using Vue.js.
+
+
+Integrated APIs with dynamic UI components for seamless user experiences.

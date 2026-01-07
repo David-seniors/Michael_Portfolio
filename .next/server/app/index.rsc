@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[2282,["215","static/chunks/215-ae954a16bea4b4bc.js","193","static/chunks/193-ff1dd674e68cd91a.js","177","static/chunks/app/layout-79ab8f4cad057bf1.js"],"Providers"]
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","345","static/chunks/app/not-found-b33ddbefd0d4c59e.js"],""]
+6:I[7406,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+7:I[1602,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+8:I[53,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+9:I[1582,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+a:I[5140,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+b:I[804,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+c:I[445,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+d:I[2634,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+e:I[8695,["215","static/chunks/215-ae954a16bea4b4bc.js","619","static/chunks/619-ba102abea3e3d0e4.js","647","static/chunks/647-3f182f8483ae7343.js","974","static/chunks/app/page-b5f2fe96e8848518.js"],"default"]
+f:I[4431,[],"OutletBoundary"]
+11:I[5278,[],"AsyncMetadataOutlet"]
+13:I[4431,[],"ViewportBoundary"]
+15:I[4431,[],"MetadataBoundary"]
+16:"$Sreact.suspense"
+18:I[7150,[],""]
+:HL["/_next/static/css/95e9232478b75df0.css","style"]
+:HL["/_next/static/css/d0e54f2165e32ca0.css","style"]
+0:{"P":null,"b":"zAemLm9-eBsQgyUPJqTJt","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95e9232478b75df0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/d0e54f2165e32ca0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"__variable_f367f3 __variable_9b9fd1 __variable_3c557b","children":[["$","head",null,{"children":["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1"}]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center bg-background","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"404 - Page Not Found"}],["$","p",null,{"className":"text-muted-foreground mb-8","children":"The page you are looking for does not exist."}],["$","$L5",null,{"href":"/","className":"inline-block px-6 py-3 bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors","children":"Go Home"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-background text-foreground","children":[["$","$L6",null,{}],["$","div",null,{"className":"min-h-screen","children":[["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]]}],null,["$","$Lf",null,{"children":["$L10",["$","$L11",null,{"promise":"$@12"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L13",null,{"children":"$L14"}],null],["$","$L15",null,{"children":["$","div",null,{"hidden":true,"children":["$","$16",null,{"fallback":null,"children":"$L17"}]}]}]]}],false]],"m":"$undefined","G":["$18",[]],"s":false,"S":true}
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:null
+12:{"metadata":[["$","title","0",{"children":"Michael Kirk - Senior Full-Stack Engineer"}],["$","meta","1",{"name":"description","content":"Senior Full-Stack Engineer specializing in Python, .NET, Node.js, Angular, and React. Building scalable, secure, and high-performance web and enterprise applications."}]],"error":null,"digest":"$undefined"}
+17:"$12:metadata"
